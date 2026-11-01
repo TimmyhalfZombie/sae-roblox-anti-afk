@@ -1,7 +1,16 @@
-# Roblox Anti-AFK
+# Roblox Anti-AFK (for Steal an Egg)
 
-Roblox kicks you out of a game if you don't press anything for 20 minutes.
-This little program stops that from happening, so you can stay in the game while you're away.
+**This is for Steal an Egg players only.**
+
+It's a small, free Windows program that stops you from getting kicked for being AFK
+in the Roblox game **Steal an Egg**. Roblox kicks you out if you don't press anything
+for 20 minutes. This program keeps you in your server while you're away from the computer.
+
+> **Only use it in Steal an Egg.** It was made and tested for Steal an Egg. In other games,
+> the keys it presses might do something else, like open a menu.
+
+> This is a fan-made tool. It isn't made by, or connected to, Roblox or the
+> Steal an Egg developers.
 
 **How it works:** every 4 to 8 minutes, it quickly switches to Roblox, zooms the camera
 in and out (the **I** and **O** keys), then switches back to whatever you were doing.
@@ -75,7 +84,7 @@ Setup is done! You never need to do Part 1 again.
 
 ## Part 2: Start it (every time you play)
 
-1. Open Roblox and **join a game**.
+1. Open Roblox and **join Steal an Egg**.
 2. Open the `RobloxAntiAFK` folder, click the address bar, type `cmd` and press **Enter**
    (just like Step 3).
 3. Type this and press **Enter**:
@@ -119,8 +128,8 @@ Click on the black window and press **Ctrl + C**. Or just close the black window
   the lock screen is showing.
 - It does **not** reconnect you if you get disconnected (for example, if the internet
   drops or the server shuts down). You'll need to rejoin yourself.
-- In most games, I and O zoom the camera. If your game uses I or O for something else
-  (like opening a menu), you might see that happen.
+- It's made for **Steal an Egg only**. In Steal an Egg, I and O zoom the camera.
+  In other games, those keys might do something else.
 
 ---
 
@@ -138,8 +147,8 @@ The black window was opened in the wrong folder. Close it and open a new one fro
 the `RobloxAntiAFK` folder (Step 3).
 
 **"Roblox not found, skipped nudge"**
-Roblox isn't open. Join a Roblox game. The program keeps trying by itself, so you don't
-need to restart it.
+Roblox isn't open. Open Roblox and join Steal an Egg. The program keeps trying by itself,
+so you don't need to restart it.
 
 **"Windows didn't let Roblox come to the front, skipped nudge"**
 Windows blocked the switch that time. The program will try again in a few minutes.
